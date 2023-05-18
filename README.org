@@ -1,0 +1,9 @@
+* postmodern
+
+A Common Lisp PostgreSQL programming interface.
+
+|---------+-----------------------------------------------------------------------------|
+| source  | file:https://github.com/marijnh/Postmodern/archive/refs/tags/v1.33.8.tar.gz |
+| version | 1.33.8                                                                      |
+| systems | postmodern                                                                  |
+|---------+-----------------------------------------------------------------------------|
