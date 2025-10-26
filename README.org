@@ -3,7 +3,7 @@
 A Common Lisp PostgreSQL programming interface.
 
 |---------+------------------------------------------------------------------------------|
-| source  | file:https://github.com/marijnh/Postmodern/archive/refs/tags/v1.33.11.tar.gz |
-| version | 1.33.11                                                                      |
+| source  | file:https://github.com/marijnh/Postmodern/archive/refs/tags/v1.33.12.tar.gz |
+| version | 1.33.12                                                                      |
 | systems | postmodern cl-postgres s-sql simple-date                                     |
 |---------+------------------------------------------------------------------------------|
